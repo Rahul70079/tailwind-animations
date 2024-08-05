@@ -70,7 +70,6 @@ export default {
 <div class="animate-slide-in-bottom animate-delay-300 animate-duration-slow">
   Slow animation after 300ms to slide in from bottom
 </div>
-```
 
 ### Animates Timeline
 
